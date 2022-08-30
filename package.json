@@ -1,0 +1,16 @@
+{
+  "name": "winston-mariadb",
+  "version": "0.0.1",
+  "description": "mariadb transport for winston",
+  "main": "lib/mariadb_transport.js",
+  "scripts": {
+    "test": "npx nodemon test/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mariadb": "^3.0.1",
+    "winston": "^3.8.1",
+    "winston-transport": "^4.5.0"
+  }
+}
