@@ -6,6 +6,10 @@
   "scripts": {
     "test": "npx nodemon test/index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:miyakijun/winston-mariadb.git"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
